@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+
+.navbar {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    font-size: 1.3rem;
+    background-color: rgb(241, 241, 241);
+}
+
+.navbar .bi-journals {
+    margin-right: 8px;
+}
+
+.card {
+    border-radius: 12px;
+    background-color: #ffffff;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: rgba(8, 43, 87, 0.808);
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #333333;
+}
