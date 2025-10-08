@@ -22,4 +22,4 @@ A simple web-based dictionary application built with Node.js, Express, EJS, and 
 # Dictionary API – https://dictionaryapi.dev/
 
 ## Author
-Mukti Jain
+# Mukti Jain
