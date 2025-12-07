@@ -12,9 +12,16 @@ body{
     margin-right: 8px;
 }
 
+.form-label {
+  font-size: 1.20rem;
+  margin-top: 0.5rem;
+  font-weight: 500;
+}
+
 .card {
     border-radius: 12px;
     background-color: #ffffff;
+    margin-top: 2.50rem;
 }
 
 .card-title {
@@ -25,4 +32,50 @@ body{
 .card-text {
     font-size: 1rem;
     color: #333333;
+}
+
+.phonetic {
+  margin-bottom: 0.7rem;
+  font-size: 1.2em;
+}
+
+.meaning-block {
+  margin-bottom: 2.50rem;
+  padding-left: 0.5rem;
+  border-left: 3px solid #75acff;
+}
+
+.meaning-title {
+  font-size: 1.1em;
+  margin-bottom: 5px;
+}
+
+.definition-list {
+  margin-left: 20px;
+}
+
+.definition-item {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.example {
+  font-style: italic;
+  color: #555;
+  margin-top: 3px;
+  font-weight: 480 !important;
+}
+
+.synonyms-badge {
+  display: inline-block;
+  background: #75acff;
+  color:  rgba(32, 42, 54, 0.808);
+  font-weight: 500;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+  margin: 0.5rem;
+  font-size: 0.9em;
+}
+.btn {
+    margin-bottom: 0.25rem;
 }
