@@ -3,9 +3,13 @@ A simple web-based dictionary application built with Node.js, Express, EJS, and 
 
 # Features
 -Search for any English word.
+
 -View multiple meanings and examples for each word.
+
 -Clean and responsive UI using Bootstrap.
+
 -Uses EJS templates for dynamic rendering.
+
 -Fully styled result cards with readable formatting.
 
 # Technologies Used
