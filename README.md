@@ -98,7 +98,3 @@ Visit: `http://localhost:8080`
 **Mukti Jain**
 
 ---
-
-## ⭐ Feedback
-
-If you found this project helpful or interesting, feel free to star the repository or share your feedback!
